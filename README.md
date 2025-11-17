@@ -1,6 +1,7 @@
 # 工具機模擬輪廓控制系統
 
-**主題**
+**主題:**
+
 請將給定的傳遞函數轉換為狀態空間，然後以給定的路徑作為輸入，模擬輪廓控制系統，將其與原始路徑進行比較，
 並使用不同的恆定進給率來觀察輪廓誤差，最後，在您的電腦上顯示結果。
 ![image alt](https://github.com/jinshuolee/Numerical_methods/blob/main/fig1.png?raw=true)
